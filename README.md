@@ -1,4 +1,4 @@
-👋 Hello, I'm George Goldman, a motivated student on a journey to merge the realms of mathematics with cutting-edge technology.
+👋 Hello, I'm George-Goldman, a motivated student on a journey to merge the realms of mathematics with cutting-edge technology.
 
 🎓 Currently pursuing a degree in mathematics, I bring a strong passion for the dynamic fields of mobile app development and IoT technology to the table.
 
